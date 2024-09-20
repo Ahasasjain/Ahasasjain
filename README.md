@@ -11,106 +11,107 @@
 
 ## Tech Stack
 <div style="width: 100%;">
-  <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank" title="React">
     <img src="https://skillicons.dev/icons?i=react" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://redux.js.org/" target="_blank">
+  <a href="https://redux.js.org/" target="_blank" title="Redux">
     <img src="https://skillicons.dev/icons?i=redux" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
     <img src="https://skillicons.dev/icons?i=ts" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
     <img src="https://skillicons.dev/icons?i=nextjs" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
     <img src="https://skillicons.dev/icons?i=nodejs" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.npmjs.com/" target="_blank">
+  <a href="https://www.npmjs.com/" target="_blank" title="NPM">
     <img src="https://skillicons.dev/icons?i=npm" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
     <img src="https://skillicons.dev/icons?i=express" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
     <img src="https://skillicons.dev/icons?i=mongodb" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://skillicons.dev/icons?i=mysql" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
+  <a href="https://vitejs.dev/" target="_blank" title="Vite">
     <img src="https://skillicons.dev/icons?i=vite" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://skillicons.dev/icons?i=git" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://skillicons.dev/icons?i=java" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
     <img src="https://skillicons.dev/icons?i=html" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://htmx.org/" target="_blank">
+  <a href="https://htmx.org/" target="_blank" title="htmx">
     <img src="https://skillicons.dev/icons?i=htmx" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
     <img src="https://skillicons.dev/icons?i=css" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://jquery.com/" target="_blank">
+  <a href="https://jquery.com/" target="_blank" title="jQuery">
     <img src="https://skillicons.dev/icons?i=jquery" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=bootstrap" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://mui.com/" target="_blank">
+  <a href="https://mui.com/" target="_blank" title="Material UI">
     <img src="https://skillicons.dev/icons?i=materialui" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://yarnpkg.com/" target="_blank">
+  <a href="https://yarnpkg.com/" target="_blank" title="Yarn">
     <img src="https://skillicons.dev/icons?i=yarn" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
     <img src="https://skillicons.dev/icons?i=c" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
+  <a href="https://en.cppreference.com/w/" target="_blank" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
     <img src="https://skillicons.dev/icons?i=bash" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
     <img src="https://skillicons.dev/icons?i=linux" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://ubuntu.com/" target="_blank">
+  <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
     <img src="https://skillicons.dev/icons?i=ubuntu" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://skillicons.dev/icons?i=py" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.anaconda.com/" target="_blank">
+  <a href="https://www.anaconda.com/" target="_blank" title="Anaconda">
     <img src="https://skillicons.dev/icons?i=anaconda" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
     <img src="https://skillicons.dev/icons?i=postman" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
+  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
     <img src="https://skillicons.dev/icons?i=arduino" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://www.raspberrypi.org/" target="_blank">
+  <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi">
     <img src="https://skillicons.dev/icons?i=raspberrypi" style="width: 70px; margin: 15px;" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
     <img src="https://skillicons.dev/icons?i=vscode" style="width: 70px; margin: 15px;" />
   </a>
 </div>
+
 
 
 
